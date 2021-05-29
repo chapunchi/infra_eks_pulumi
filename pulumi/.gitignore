@@ -1,1 +1,4 @@
-/node_modules/
+node_modules
+kubectl
+kubectl.sha256
+package-lock.json

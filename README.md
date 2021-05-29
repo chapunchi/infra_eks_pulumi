@@ -1,1 +1,3 @@
-# infra_eks_pulumi
+# EKS infrastruture creation
+
+This project creates a ECS Infrastructure in Pulumi.
